@@ -1,12 +1,17 @@
 {
-  "name": "callingmyname2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "name": "callingmyname2",
+    "version": "1.0.0",
+    "description": "let me save your information",
+    "homepage": "https://github.com/landmineak/callingmyname2/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/landmineak/callingmyname2.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "hai836799",
+    "license": "ISC"
+  }
