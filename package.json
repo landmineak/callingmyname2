@@ -15,6 +15,10 @@
     "author": "hai836799",
     "license": "ISC",
     "dependencies": {
-        "axios": "^1.6.7"
+        "axios": "^1.6.7",
+        "calendar-note-9th": "^1.0.5",
+        "give-advice-10th": "^1.0.3",
+        "remind-works-8th": "^1.0.1",
+        "test-app-number-7th": "^1.0.1"
     }
 }
